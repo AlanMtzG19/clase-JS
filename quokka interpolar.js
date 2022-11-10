@@ -16,4 +16,3 @@ let variable ="1234"
 imprimir(variable)
 
 Number(variable)
-imprimir(variable)
